@@ -13,4 +13,9 @@
 
 
 Branch and checkout
-1. git branch
+1. git branch <branchname>
+2. git checkout <branchname> 
+this will switch you to <branchname>
+3. edit a file and git add it
+4. git commit -m
+5. git push --set-upstream origin firstbranch
