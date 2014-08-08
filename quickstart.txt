@@ -1,3 +1,5 @@
 1. Clone the repository locally (from git client).
 2. Touch <filename> to add a file to the repository (add whatever you want).
-3. 
+3. git add to add the file to your repo.	
+4. git status to see status of file changes.
+5. git 
