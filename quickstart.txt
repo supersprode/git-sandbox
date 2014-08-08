@@ -10,3 +10,7 @@
  - git commit -m "message"
  - git push
  - git status
+
+
+Branch and checkout
+1. git branch
